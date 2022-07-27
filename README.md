@@ -2,7 +2,7 @@
 
 ## Description
 
-The Rental Market Analysis notebook is a sample notebook that illustrates how to create interactive visualizations using numerical and visual aggregation with hvPlot and GeoViews.  Interactive visualizations are extremely powerful because they enable the user to quickly and easily analyze areas of interest on line plots, bar charts and geospatial maps by zooming and panning.   In this example, we ingest a CSV file containing a list of San Francisco neighborhoods, along with their rental growth rate and sales price per square foot.    
+The Rental Market Analysis notebook is a sample notebook that illustrates how to create interactive visualizations using numerical and visual aggregation with hvPlot and GeoViews.  Interactive visualizations are extremely powerful because they enable the user to quickly and easily analyze areas of interest on line plots, bar charts and geospatial maps by zooming and panning.   In this example, we ingest a CSV file containing a list of San Francisco neighborhoods, along with their rental growth rate and sales price per square foot.   By doing so, we can compare average sales prices and growth rental rates by neighborhood and determine whether the purchasing a property for rental is a sound investment.   
 
 ## Technologies
 
